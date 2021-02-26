@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #304974;
+    color: #FFFFBF;
+}
+.tabla1 {
+    background-color: #263C5E;
+    border: none;
+}
+    .tabla1 th {
+        background-color: #D22B00;
+        color: #FFEFEF;
+        border: none;
+    }
+    .tabla1 td {
+        border: none;
+        border-bottom: solid;
+    }

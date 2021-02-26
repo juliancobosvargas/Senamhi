@@ -1,0 +1,12 @@
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\bin\Debug\ClienteVB.exe.config
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\bin\Debug\ClienteVB.exe
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\bin\Debug\ClienteVB.pdb
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\bin\Debug\ClienteVB.xml
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.vbprojAssemblyReference.cache
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.Form1.resources
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.Resources.resources
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.vbproj.GenerateResource.cache
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.vbproj.CoreCompileInputs.cache
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.exe
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.xml
+E:\001 Mega\UAC\01 Plataforma - Hugo\Proyectos VS2019\Sehamhi\Solucion1\ClienteVB\obj\Debug\ClienteVB.pdb
